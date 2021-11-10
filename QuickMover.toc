@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: QuickMover
+## Version: 0.1
+## Notes: Quick builder using the numpad for Epsilon
+## Author: rick#0001
+## SavedVariables: QuickMoverValues
+
+bindings.lua
+frame.lua
+calculator.lua
+rotate.lua
+init.lua

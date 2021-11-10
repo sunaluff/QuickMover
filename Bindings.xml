@@ -1,0 +1,5 @@
+<Bindings>
+   <Binding category="ADDONS" name="QuickMover" header="QuickMover" default="PAGEDOWN">
+      QuickMover.toggleFrame()
+   </Binding>
+</Bindings>
